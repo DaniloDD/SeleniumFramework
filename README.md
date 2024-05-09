@@ -1,5 +1,4 @@
 # Selenium Automation Framework(with Java)
-- Author - Pramod Dutta
 
 - Java, Selenium, TestNG
 - Maven, AssertJ, POM
